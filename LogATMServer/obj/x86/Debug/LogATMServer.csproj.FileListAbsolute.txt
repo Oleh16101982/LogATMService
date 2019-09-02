@@ -1,0 +1,11 @@
+D:\Project\__VS2010\LogsFromATM\20100723\LogATMService\LogATMServer\bin\Debug\LogATMServer.exe
+D:\Project\__VS2010\LogsFromATM\20100723\LogATMService\LogATMServer\bin\Debug\LogATMServer.pdb
+D:\Project\__VS2010\LogsFromATM\20100723\LogATMService\LogATMServer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Project\__VS2010\LogsFromATM\20100723\LogATMService\LogATMServer\obj\x86\Debug\LogATMServer.exe
+D:\Project\__VS2010\LogsFromATM\20100723\LogATMService\LogATMServer\obj\x86\Debug\LogATMServer.pdb
+D:\Project\__VS2010\LogsFromATM\20100723\LogATMService\LogATMServer\obj\x86\Debug\LogATMServer.LogATM_Server.resources
+D:\Project\__VS2010\LogsFromATM\20100723\LogATMService\LogATMServer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Project\__VS2010\LogsFromATM\20100723\LogATMService\LogATMServer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Project\__VS2010\LogsFromATM\20100723\LogATMService\LogATMServer\bin\Debug\App.config
+D:\Project\__VS2010\LogsFromATM\20100723\LogATMService\LogATMServer\bin\Debug\LogATMServer.exe.config
+D:\Project\__VS2010\LogsFromATM\20100723\LogATMService\LogATMServer\obj\x86\Debug\LogATMServer.ProjectInstaller.resources

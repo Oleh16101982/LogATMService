@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogATMServer", "LogATMServer\LogATMServer.csproj", "{83E4914F-761E-49BF-8928-B43F5B14792F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogATMClient", "LogATMClient\LogATMClient.csproj", "{F2DE44F3-7FD0-45EC-8ED1-80DCCE814D52}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InstallLogATMServerService", "InstallLogATMServerService\InstallLogATMServerService.vdproj", "{6A3FBA82-504B-42FB-837F-EBEE42E247BD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LogATMClientInstaller", "LogATMClientInstaller\LogATMClientInstaller.vdproj", "{74F86467-A3EA-4A78-A060-BD9D5BE35DA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83E4914F-761E-49BF-8928-B43F5B14792F}.Debug|x86.ActiveCfg = Debug|x86
+		{83E4914F-761E-49BF-8928-B43F5B14792F}.Debug|x86.Build.0 = Debug|x86
+		{83E4914F-761E-49BF-8928-B43F5B14792F}.Release|x86.ActiveCfg = Release|x86
+		{83E4914F-761E-49BF-8928-B43F5B14792F}.Release|x86.Build.0 = Release|x86
+		{F2DE44F3-7FD0-45EC-8ED1-80DCCE814D52}.Debug|x86.ActiveCfg = Debug|x86
+		{F2DE44F3-7FD0-45EC-8ED1-80DCCE814D52}.Debug|x86.Build.0 = Debug|x86
+		{F2DE44F3-7FD0-45EC-8ED1-80DCCE814D52}.Release|x86.ActiveCfg = Release|x86
+		{F2DE44F3-7FD0-45EC-8ED1-80DCCE814D52}.Release|x86.Build.0 = Release|x86
+		{6A3FBA82-504B-42FB-837F-EBEE42E247BD}.Debug|x86.ActiveCfg = Debug
+		{6A3FBA82-504B-42FB-837F-EBEE42E247BD}.Release|x86.ActiveCfg = Release
+		{74F86467-A3EA-4A78-A060-BD9D5BE35DA7}.Debug|x86.ActiveCfg = Debug
+		{74F86467-A3EA-4A78-A060-BD9D5BE35DA7}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
